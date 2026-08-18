@@ -21,6 +21,16 @@
 
 ---
 
+## Background
+
+To an unfortunate extent, we all live in the era of COVID-19 — daily life, travel,
+and the international economy and trade have all been affected to varying degrees.
+
+Fortunately, to help people better track and understand the global pandemic situation
+and trends, **Covid Stats ZeroToHero** was built. More importantly, it applies
+**machine learning models trained on big data** to forecast confirmed COVID-19 case
+counts across the world.
+
 ## Why this project stands out
 
 - **Real distributed systems, not a toy.** Provisions a genuine multi-node cluster —
